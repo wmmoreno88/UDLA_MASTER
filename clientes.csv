@@ -1,0 +1,1001 @@
+id,nombre,edad,ciudad
+1,Cliente_1,40,Santiago
+2,Cliente_2,24,Bogotá
+3,Cliente_3,19,México
+4,Cliente_4,21,Lima
+5,Cliente_5,50,México
+6,Cliente_6,44,Lima
+7,Cliente_7,59,México
+8,Cliente_8,45,México
+9,Cliente_9,63,México
+10,Cliente_10,58,Bogotá
+11,Cliente_11,58,Lima
+12,Cliente_12,68,Bogotá
+13,Cliente_13,41,México
+14,Cliente_14,60,Lima
+15,Cliente_15,56,Buenos Aires
+16,Cliente_16,33,Santiago
+17,Cliente_17,20,México
+18,Cliente_18,35,Santiago
+19,Cliente_19,43,Lima
+20,Cliente_20,67,Santiago
+21,Cliente_21,70,Lima
+22,Cliente_22,55,México
+23,Cliente_23,35,Bogotá
+24,Cliente_24,20,Lima
+25,Cliente_25,62,Lima
+26,Cliente_26,65,México
+27,Cliente_27,32,Bogotá
+28,Cliente_28,40,Bogotá
+29,Cliente_29,53,México
+30,Cliente_30,40,Lima
+31,Cliente_31,21,Buenos Aires
+32,Cliente_32,38,México
+33,Cliente_33,32,Bogotá
+34,Cliente_34,47,México
+35,Cliente_35,48,Bogotá
+36,Cliente_36,39,Buenos Aires
+37,Cliente_37,19,México
+38,Cliente_38,34,Santiago
+39,Cliente_39,40,Bogotá
+40,Cliente_40,53,Lima
+41,Cliente_41,61,Bogotá
+42,Cliente_42,67,México
+43,Cliente_43,49,Santiago
+44,Cliente_44,42,Buenos Aires
+45,Cliente_45,38,Bogotá
+46,Cliente_46,52,Lima
+47,Cliente_47,56,México
+48,Cliente_48,26,Santiago
+49,Cliente_49,61,Bogotá
+50,Cliente_50,52,Bogotá
+51,Cliente_51,24,Buenos Aires
+52,Cliente_52,37,México
+53,Cliente_53,59,Lima
+54,Cliente_54,69,Bogotá
+55,Cliente_55,33,Lima
+56,Cliente_56,19,Bogotá
+57,Cliente_57,45,Buenos Aires
+58,Cliente_58,38,Buenos Aires
+59,Cliente_59,67,México
+60,Cliente_60,45,México
+61,Cliente_61,22,Santiago
+62,Cliente_62,69,México
+63,Cliente_63,62,Bogotá
+64,Cliente_64,47,Buenos Aires
+65,Cliente_65,53,México
+66,Cliente_66,18,Santiago
+67,Cliente_67,54,Santiago
+68,Cliente_68,18,Santiago
+69,Cliente_69,54,Buenos Aires
+70,Cliente_70,46,Lima
+71,Cliente_71,44,Bogotá
+72,Cliente_72,21,Lima
+73,Cliente_73,45,Santiago
+74,Cliente_74,35,México
+75,Cliente_75,53,Lima
+76,Cliente_76,45,México
+77,Cliente_77,44,Bogotá
+78,Cliente_78,52,Buenos Aires
+79,Cliente_79,62,Bogotá
+80,Cliente_80,37,México
+81,Cliente_81,18,Lima
+82,Cliente_82,53,Lima
+83,Cliente_83,64,Bogotá
+84,Cliente_84,54,Lima
+85,Cliente_85,32,Buenos Aires
+86,Cliente_86,44,México
+87,Cliente_87,65,México
+88,Cliente_88,39,Lima
+89,Cliente_89,51,Buenos Aires
+90,Cliente_90,31,Buenos Aires
+91,Cliente_91,44,Lima
+92,Cliente_92,63,Santiago
+93,Cliente_93,56,Buenos Aires
+94,Cliente_94,18,México
+95,Cliente_95,63,Bogotá
+96,Cliente_96,30,México
+97,Cliente_97,26,Lima
+98,Cliente_98,63,Bogotá
+99,Cliente_99,31,Lima
+100,Cliente_100,20,Buenos Aires
+101,Cliente_101,70,Santiago
+102,Cliente_102,28,México
+103,Cliente_103,31,México
+104,Cliente_104,59,Buenos Aires
+105,Cliente_105,53,Santiago
+106,Cliente_106,29,México
+107,Cliente_107,49,Buenos Aires
+108,Cliente_108,30,México
+109,Cliente_109,39,Santiago
+110,Cliente_110,24,Lima
+111,Cliente_111,30,Bogotá
+112,Cliente_112,33,Buenos Aires
+113,Cliente_113,28,Santiago
+114,Cliente_114,62,Lima
+115,Cliente_115,26,Bogotá
+116,Cliente_116,46,México
+117,Cliente_117,64,Bogotá
+118,Cliente_118,54,México
+119,Cliente_119,63,Buenos Aires
+120,Cliente_120,67,Buenos Aires
+121,Cliente_121,49,Santiago
+122,Cliente_122,38,Santiago
+123,Cliente_123,43,Santiago
+124,Cliente_124,58,Bogotá
+125,Cliente_125,47,Bogotá
+126,Cliente_126,62,Bogotá
+127,Cliente_127,60,Santiago
+128,Cliente_128,44,Santiago
+129,Cliente_129,49,México
+130,Cliente_130,49,Buenos Aires
+131,Cliente_131,44,México
+132,Cliente_132,36,Buenos Aires
+133,Cliente_133,54,Bogotá
+134,Cliente_134,18,Lima
+135,Cliente_135,23,Buenos Aires
+136,Cliente_136,37,Buenos Aires
+137,Cliente_137,30,Buenos Aires
+138,Cliente_138,64,Buenos Aires
+139,Cliente_139,64,México
+140,Cliente_140,35,Bogotá
+141,Cliente_141,18,Santiago
+142,Cliente_142,26,Lima
+143,Cliente_143,26,Buenos Aires
+144,Cliente_144,34,Santiago
+145,Cliente_145,50,Buenos Aires
+146,Cliente_146,68,Bogotá
+147,Cliente_147,64,Lima
+148,Cliente_148,56,Buenos Aires
+149,Cliente_149,23,Buenos Aires
+150,Cliente_150,43,México
+151,Cliente_151,69,Lima
+152,Cliente_152,34,Buenos Aires
+153,Cliente_153,26,Lima
+154,Cliente_154,69,Santiago
+155,Cliente_155,26,Santiago
+156,Cliente_156,31,México
+157,Cliente_157,41,Lima
+158,Cliente_158,67,Santiago
+159,Cliente_159,64,Bogotá
+160,Cliente_160,32,Lima
+161,Cliente_161,26,Bogotá
+162,Cliente_162,32,Buenos Aires
+163,Cliente_163,27,Buenos Aires
+164,Cliente_164,25,Santiago
+165,Cliente_165,37,Buenos Aires
+166,Cliente_166,60,Buenos Aires
+167,Cliente_167,51,Lima
+168,Cliente_168,42,Lima
+169,Cliente_169,59,Bogotá
+170,Cliente_170,30,Santiago
+171,Cliente_171,25,México
+172,Cliente_172,39,Santiago
+173,Cliente_173,26,México
+174,Cliente_174,65,Bogotá
+175,Cliente_175,49,Lima
+176,Cliente_176,43,Bogotá
+177,Cliente_177,38,Lima
+178,Cliente_178,20,Santiago
+179,Cliente_179,42,Bogotá
+180,Cliente_180,57,Lima
+181,Cliente_181,63,Santiago
+182,Cliente_182,57,Buenos Aires
+183,Cliente_183,21,Lima
+184,Cliente_184,31,México
+185,Cliente_185,19,México
+186,Cliente_186,66,México
+187,Cliente_187,47,Bogotá
+188,Cliente_188,39,Buenos Aires
+189,Cliente_189,42,Buenos Aires
+190,Cliente_190,59,Bogotá
+191,Cliente_191,62,Bogotá
+192,Cliente_192,34,Buenos Aires
+193,Cliente_193,44,Bogotá
+194,Cliente_194,40,Lima
+195,Cliente_195,48,Santiago
+196,Cliente_196,45,Lima
+197,Cliente_197,44,Buenos Aires
+198,Cliente_198,51,Bogotá
+199,Cliente_199,31,Buenos Aires
+200,Cliente_200,22,Santiago
+201,Cliente_201,63,Bogotá
+202,Cliente_202,39,Bogotá
+203,Cliente_203,67,Lima
+204,Cliente_204,55,Santiago
+205,Cliente_205,61,Lima
+206,Cliente_206,49,Lima
+207,Cliente_207,55,Bogotá
+208,Cliente_208,47,Bogotá
+209,Cliente_209,50,Buenos Aires
+210,Cliente_210,65,México
+211,Cliente_211,69,Bogotá
+212,Cliente_212,27,Lima
+213,Cliente_213,29,México
+214,Cliente_214,35,Lima
+215,Cliente_215,66,Bogotá
+216,Cliente_216,67,Santiago
+217,Cliente_217,19,Santiago
+218,Cliente_218,59,Santiago
+219,Cliente_219,56,Lima
+220,Cliente_220,67,México
+221,Cliente_221,27,Buenos Aires
+222,Cliente_222,62,Lima
+223,Cliente_223,48,Lima
+224,Cliente_224,50,Buenos Aires
+225,Cliente_225,42,México
+226,Cliente_226,31,Buenos Aires
+227,Cliente_227,36,Lima
+228,Cliente_228,22,México
+229,Cliente_229,26,Santiago
+230,Cliente_230,65,México
+231,Cliente_231,30,Lima
+232,Cliente_232,46,Santiago
+233,Cliente_233,48,Lima
+234,Cliente_234,36,México
+235,Cliente_235,44,Santiago
+236,Cliente_236,26,Lima
+237,Cliente_237,49,México
+238,Cliente_238,51,Bogotá
+239,Cliente_239,32,Santiago
+240,Cliente_240,67,Lima
+241,Cliente_241,28,Buenos Aires
+242,Cliente_242,33,Bogotá
+243,Cliente_243,47,Buenos Aires
+244,Cliente_244,39,Lima
+245,Cliente_245,26,Bogotá
+246,Cliente_246,61,Santiago
+247,Cliente_247,37,Lima
+248,Cliente_248,39,Buenos Aires
+249,Cliente_249,18,México
+250,Cliente_250,63,Buenos Aires
+251,Cliente_251,39,Lima
+252,Cliente_252,48,México
+253,Cliente_253,42,Bogotá
+254,Cliente_254,66,Santiago
+255,Cliente_255,34,Lima
+256,Cliente_256,34,Bogotá
+257,Cliente_257,19,Lima
+258,Cliente_258,19,Lima
+259,Cliente_259,49,Bogotá
+260,Cliente_260,37,Lima
+261,Cliente_261,45,Buenos Aires
+262,Cliente_262,35,Santiago
+263,Cliente_263,28,México
+264,Cliente_264,70,Bogotá
+265,Cliente_265,19,México
+266,Cliente_266,24,Buenos Aires
+267,Cliente_267,66,México
+268,Cliente_268,51,Lima
+269,Cliente_269,63,Buenos Aires
+270,Cliente_270,37,Buenos Aires
+271,Cliente_271,22,Santiago
+272,Cliente_272,42,Bogotá
+273,Cliente_273,32,Lima
+274,Cliente_274,54,México
+275,Cliente_275,27,Santiago
+276,Cliente_276,29,México
+277,Cliente_277,51,Bogotá
+278,Cliente_278,19,Lima
+279,Cliente_279,44,Bogotá
+280,Cliente_280,65,Santiago
+281,Cliente_281,42,México
+282,Cliente_282,24,Bogotá
+283,Cliente_283,33,Santiago
+284,Cliente_284,21,Santiago
+285,Cliente_285,70,Santiago
+286,Cliente_286,42,Bogotá
+287,Cliente_287,40,México
+288,Cliente_288,35,Buenos Aires
+289,Cliente_289,68,Santiago
+290,Cliente_290,56,Santiago
+291,Cliente_291,21,Santiago
+292,Cliente_292,67,Santiago
+293,Cliente_293,46,Lima
+294,Cliente_294,62,Santiago
+295,Cliente_295,35,Buenos Aires
+296,Cliente_296,55,México
+297,Cliente_297,50,México
+298,Cliente_298,52,Buenos Aires
+299,Cliente_299,69,Bogotá
+300,Cliente_300,46,Santiago
+301,Cliente_301,29,Buenos Aires
+302,Cliente_302,47,Lima
+303,Cliente_303,22,Santiago
+304,Cliente_304,67,México
+305,Cliente_305,50,Santiago
+306,Cliente_306,51,Bogotá
+307,Cliente_307,34,México
+308,Cliente_308,28,Lima
+309,Cliente_309,43,Buenos Aires
+310,Cliente_310,42,Lima
+311,Cliente_311,59,Bogotá
+312,Cliente_312,37,México
+313,Cliente_313,33,México
+314,Cliente_314,44,Bogotá
+315,Cliente_315,36,Buenos Aires
+316,Cliente_316,58,México
+317,Cliente_317,66,Bogotá
+318,Cliente_318,47,México
+319,Cliente_319,26,Santiago
+320,Cliente_320,60,Santiago
+321,Cliente_321,37,México
+322,Cliente_322,45,México
+323,Cliente_323,54,Santiago
+324,Cliente_324,61,Buenos Aires
+325,Cliente_325,33,Santiago
+326,Cliente_326,28,México
+327,Cliente_327,41,Bogotá
+328,Cliente_328,48,Buenos Aires
+329,Cliente_329,61,México
+330,Cliente_330,66,Santiago
+331,Cliente_331,21,Santiago
+332,Cliente_332,44,Bogotá
+333,Cliente_333,24,Buenos Aires
+334,Cliente_334,42,México
+335,Cliente_335,54,Buenos Aires
+336,Cliente_336,32,Santiago
+337,Cliente_337,24,México
+338,Cliente_338,61,Santiago
+339,Cliente_339,62,Santiago
+340,Cliente_340,69,Buenos Aires
+341,Cliente_341,24,México
+342,Cliente_342,54,Lima
+343,Cliente_343,61,México
+344,Cliente_344,41,Bogotá
+345,Cliente_345,59,Lima
+346,Cliente_346,21,México
+347,Cliente_347,62,Bogotá
+348,Cliente_348,46,Santiago
+349,Cliente_349,39,Bogotá
+350,Cliente_350,49,Buenos Aires
+351,Cliente_351,59,México
+352,Cliente_352,25,Lima
+353,Cliente_353,21,Buenos Aires
+354,Cliente_354,32,Santiago
+355,Cliente_355,39,Lima
+356,Cliente_356,66,Buenos Aires
+357,Cliente_357,42,Buenos Aires
+358,Cliente_358,23,Buenos Aires
+359,Cliente_359,20,Bogotá
+360,Cliente_360,44,Lima
+361,Cliente_361,53,Buenos Aires
+362,Cliente_362,19,Lima
+363,Cliente_363,19,Buenos Aires
+364,Cliente_364,26,Buenos Aires
+365,Cliente_365,45,México
+366,Cliente_366,67,Santiago
+367,Cliente_367,21,México
+368,Cliente_368,27,Bogotá
+369,Cliente_369,44,Santiago
+370,Cliente_370,37,México
+371,Cliente_371,70,Santiago
+372,Cliente_372,57,Buenos Aires
+373,Cliente_373,45,México
+374,Cliente_374,19,Buenos Aires
+375,Cliente_375,27,Bogotá
+376,Cliente_376,37,Bogotá
+377,Cliente_377,21,Santiago
+378,Cliente_378,41,Bogotá
+379,Cliente_379,66,Santiago
+380,Cliente_380,56,Buenos Aires
+381,Cliente_381,50,Santiago
+382,Cliente_382,44,Lima
+383,Cliente_383,49,Santiago
+384,Cliente_384,57,México
+385,Cliente_385,62,Lima
+386,Cliente_386,61,Lima
+387,Cliente_387,46,Santiago
+388,Cliente_388,39,Bogotá
+389,Cliente_389,37,México
+390,Cliente_390,34,México
+391,Cliente_391,50,México
+392,Cliente_392,23,Santiago
+393,Cliente_393,39,Bogotá
+394,Cliente_394,36,Lima
+395,Cliente_395,65,Bogotá
+396,Cliente_396,30,México
+397,Cliente_397,52,Bogotá
+398,Cliente_398,54,Santiago
+399,Cliente_399,39,México
+400,Cliente_400,22,Bogotá
+401,Cliente_401,47,Bogotá
+402,Cliente_402,39,Lima
+403,Cliente_403,29,México
+404,Cliente_404,48,Lima
+405,Cliente_405,53,México
+406,Cliente_406,26,Santiago
+407,Cliente_407,23,México
+408,Cliente_408,56,Buenos Aires
+409,Cliente_409,43,México
+410,Cliente_410,37,México
+411,Cliente_411,21,Santiago
+412,Cliente_412,63,Lima
+413,Cliente_413,22,Santiago
+414,Cliente_414,70,Bogotá
+415,Cliente_415,20,Bogotá
+416,Cliente_416,33,Lima
+417,Cliente_417,32,Lima
+418,Cliente_418,47,México
+419,Cliente_419,20,Buenos Aires
+420,Cliente_420,69,Lima
+421,Cliente_421,57,Bogotá
+422,Cliente_422,61,Bogotá
+423,Cliente_423,58,México
+424,Cliente_424,48,Santiago
+425,Cliente_425,33,Buenos Aires
+426,Cliente_426,54,Lima
+427,Cliente_427,29,Santiago
+428,Cliente_428,25,Lima
+429,Cliente_429,62,México
+430,Cliente_430,18,México
+431,Cliente_431,38,Lima
+432,Cliente_432,53,México
+433,Cliente_433,44,Bogotá
+434,Cliente_434,18,Santiago
+435,Cliente_435,21,Santiago
+436,Cliente_436,69,Bogotá
+437,Cliente_437,63,Santiago
+438,Cliente_438,47,México
+439,Cliente_439,59,Lima
+440,Cliente_440,54,Santiago
+441,Cliente_441,56,Santiago
+442,Cliente_442,37,Santiago
+443,Cliente_443,19,Lima
+444,Cliente_444,28,Lima
+445,Cliente_445,41,Bogotá
+446,Cliente_446,56,Bogotá
+447,Cliente_447,58,México
+448,Cliente_448,58,Buenos Aires
+449,Cliente_449,35,Santiago
+450,Cliente_450,50,Bogotá
+451,Cliente_451,36,Santiago
+452,Cliente_452,30,Santiago
+453,Cliente_453,24,Lima
+454,Cliente_454,53,México
+455,Cliente_455,63,Lima
+456,Cliente_456,34,Buenos Aires
+457,Cliente_457,60,Buenos Aires
+458,Cliente_458,27,México
+459,Cliente_459,62,Buenos Aires
+460,Cliente_460,69,México
+461,Cliente_461,57,Lima
+462,Cliente_462,43,México
+463,Cliente_463,69,Santiago
+464,Cliente_464,45,Santiago
+465,Cliente_465,37,Lima
+466,Cliente_466,50,Santiago
+467,Cliente_467,61,Bogotá
+468,Cliente_468,39,México
+469,Cliente_469,30,Santiago
+470,Cliente_470,53,Bogotá
+471,Cliente_471,68,Santiago
+472,Cliente_472,18,México
+473,Cliente_473,63,Lima
+474,Cliente_474,46,Bogotá
+475,Cliente_475,39,México
+476,Cliente_476,50,Lima
+477,Cliente_477,54,Bogotá
+478,Cliente_478,36,Buenos Aires
+479,Cliente_479,63,Lima
+480,Cliente_480,21,México
+481,Cliente_481,69,Bogotá
+482,Cliente_482,33,Santiago
+483,Cliente_483,29,Lima
+484,Cliente_484,58,México
+485,Cliente_485,41,Lima
+486,Cliente_486,65,Santiago
+487,Cliente_487,26,Lima
+488,Cliente_488,53,Bogotá
+489,Cliente_489,46,Bogotá
+490,Cliente_490,35,Buenos Aires
+491,Cliente_491,45,Lima
+492,Cliente_492,61,Bogotá
+493,Cliente_493,65,Lima
+494,Cliente_494,39,Lima
+495,Cliente_495,43,Lima
+496,Cliente_496,39,Bogotá
+497,Cliente_497,35,México
+498,Cliente_498,42,Buenos Aires
+499,Cliente_499,51,Buenos Aires
+500,Cliente_500,31,Buenos Aires
+501,Cliente_501,61,México
+502,Cliente_502,52,Bogotá
+503,Cliente_503,29,Santiago
+504,Cliente_504,47,Buenos Aires
+505,Cliente_505,49,Bogotá
+506,Cliente_506,36,Santiago
+507,Cliente_507,33,Buenos Aires
+508,Cliente_508,35,Lima
+509,Cliente_509,31,Buenos Aires
+510,Cliente_510,19,Santiago
+511,Cliente_511,28,Lima
+512,Cliente_512,21,Lima
+513,Cliente_513,34,México
+514,Cliente_514,66,Santiago
+515,Cliente_515,25,Santiago
+516,Cliente_516,35,Lima
+517,Cliente_517,54,México
+518,Cliente_518,58,México
+519,Cliente_519,18,Bogotá
+520,Cliente_520,70,Lima
+521,Cliente_521,58,Lima
+522,Cliente_522,57,Buenos Aires
+523,Cliente_523,29,Lima
+524,Cliente_524,66,Bogotá
+525,Cliente_525,36,Buenos Aires
+526,Cliente_526,56,Lima
+527,Cliente_527,57,Santiago
+528,Cliente_528,39,Bogotá
+529,Cliente_529,20,Buenos Aires
+530,Cliente_530,45,Bogotá
+531,Cliente_531,32,Lima
+532,Cliente_532,24,Lima
+533,Cliente_533,46,Santiago
+534,Cliente_534,44,Lima
+535,Cliente_535,49,Bogotá
+536,Cliente_536,70,Lima
+537,Cliente_537,65,Lima
+538,Cliente_538,61,Lima
+539,Cliente_539,22,México
+540,Cliente_540,20,Bogotá
+541,Cliente_541,35,Bogotá
+542,Cliente_542,53,Bogotá
+543,Cliente_543,34,Bogotá
+544,Cliente_544,19,Bogotá
+545,Cliente_545,69,Santiago
+546,Cliente_546,28,Santiago
+547,Cliente_547,48,Lima
+548,Cliente_548,20,Lima
+549,Cliente_549,64,México
+550,Cliente_550,35,Bogotá
+551,Cliente_551,43,Lima
+552,Cliente_552,65,México
+553,Cliente_553,69,Lima
+554,Cliente_554,31,Buenos Aires
+555,Cliente_555,19,Bogotá
+556,Cliente_556,43,México
+557,Cliente_557,27,Bogotá
+558,Cliente_558,34,Santiago
+559,Cliente_559,42,Buenos Aires
+560,Cliente_560,39,Buenos Aires
+561,Cliente_561,70,Santiago
+562,Cliente_562,27,Lima
+563,Cliente_563,56,Bogotá
+564,Cliente_564,59,Lima
+565,Cliente_565,63,Santiago
+566,Cliente_566,46,Buenos Aires
+567,Cliente_567,27,México
+568,Cliente_568,39,Buenos Aires
+569,Cliente_569,66,Santiago
+570,Cliente_570,56,Bogotá
+571,Cliente_571,39,Lima
+572,Cliente_572,25,México
+573,Cliente_573,38,Bogotá
+574,Cliente_574,21,México
+575,Cliente_575,20,Lima
+576,Cliente_576,52,Bogotá
+577,Cliente_577,24,México
+578,Cliente_578,33,Lima
+579,Cliente_579,65,Santiago
+580,Cliente_580,26,Lima
+581,Cliente_581,22,México
+582,Cliente_582,68,México
+583,Cliente_583,36,Bogotá
+584,Cliente_584,59,Buenos Aires
+585,Cliente_585,61,Bogotá
+586,Cliente_586,51,Santiago
+587,Cliente_587,51,Santiago
+588,Cliente_588,48,Buenos Aires
+589,Cliente_589,31,Bogotá
+590,Cliente_590,39,Buenos Aires
+591,Cliente_591,68,México
+592,Cliente_592,51,Bogotá
+593,Cliente_593,56,Santiago
+594,Cliente_594,42,Bogotá
+595,Cliente_595,20,Buenos Aires
+596,Cliente_596,18,Buenos Aires
+597,Cliente_597,32,Santiago
+598,Cliente_598,47,Buenos Aires
+599,Cliente_599,38,Bogotá
+600,Cliente_600,56,Lima
+601,Cliente_601,21,Bogotá
+602,Cliente_602,67,Santiago
+603,Cliente_603,48,Santiago
+604,Cliente_604,70,Lima
+605,Cliente_605,43,Bogotá
+606,Cliente_606,23,Santiago
+607,Cliente_607,50,Bogotá
+608,Cliente_608,19,México
+609,Cliente_609,43,México
+610,Cliente_610,42,México
+611,Cliente_611,45,Bogotá
+612,Cliente_612,63,Lima
+613,Cliente_613,47,México
+614,Cliente_614,47,Santiago
+615,Cliente_615,30,Bogotá
+616,Cliente_616,36,Lima
+617,Cliente_617,22,Buenos Aires
+618,Cliente_618,20,México
+619,Cliente_619,70,México
+620,Cliente_620,31,México
+621,Cliente_621,56,Lima
+622,Cliente_622,62,México
+623,Cliente_623,65,Santiago
+624,Cliente_624,59,México
+625,Cliente_625,49,Bogotá
+626,Cliente_626,30,Buenos Aires
+627,Cliente_627,22,Bogotá
+628,Cliente_628,50,Lima
+629,Cliente_629,25,Bogotá
+630,Cliente_630,46,Buenos Aires
+631,Cliente_631,34,Bogotá
+632,Cliente_632,44,Lima
+633,Cliente_633,20,Bogotá
+634,Cliente_634,48,Bogotá
+635,Cliente_635,40,Bogotá
+636,Cliente_636,33,México
+637,Cliente_637,65,Bogotá
+638,Cliente_638,27,Lima
+639,Cliente_639,49,Buenos Aires
+640,Cliente_640,56,Bogotá
+641,Cliente_641,34,Buenos Aires
+642,Cliente_642,63,Lima
+643,Cliente_643,69,Buenos Aires
+644,Cliente_644,32,Santiago
+645,Cliente_645,32,Bogotá
+646,Cliente_646,50,México
+647,Cliente_647,32,Lima
+648,Cliente_648,59,Bogotá
+649,Cliente_649,27,Bogotá
+650,Cliente_650,70,Buenos Aires
+651,Cliente_651,23,Buenos Aires
+652,Cliente_652,49,Lima
+653,Cliente_653,24,Buenos Aires
+654,Cliente_654,26,Lima
+655,Cliente_655,35,Lima
+656,Cliente_656,48,Bogotá
+657,Cliente_657,25,Santiago
+658,Cliente_658,65,Lima
+659,Cliente_659,61,Bogotá
+660,Cliente_660,21,Santiago
+661,Cliente_661,68,Lima
+662,Cliente_662,34,México
+663,Cliente_663,67,Buenos Aires
+664,Cliente_664,42,Lima
+665,Cliente_665,69,México
+666,Cliente_666,34,Santiago
+667,Cliente_667,35,Santiago
+668,Cliente_668,25,Bogotá
+669,Cliente_669,40,Lima
+670,Cliente_670,50,Bogotá
+671,Cliente_671,18,Bogotá
+672,Cliente_672,30,México
+673,Cliente_673,63,Buenos Aires
+674,Cliente_674,49,México
+675,Cliente_675,58,Buenos Aires
+676,Cliente_676,25,Lima
+677,Cliente_677,69,Bogotá
+678,Cliente_678,18,Buenos Aires
+679,Cliente_679,69,Lima
+680,Cliente_680,26,Bogotá
+681,Cliente_681,24,Santiago
+682,Cliente_682,46,Buenos Aires
+683,Cliente_683,42,Santiago
+684,Cliente_684,40,Lima
+685,Cliente_685,66,Santiago
+686,Cliente_686,48,Buenos Aires
+687,Cliente_687,63,Santiago
+688,Cliente_688,50,Bogotá
+689,Cliente_689,63,México
+690,Cliente_690,37,México
+691,Cliente_691,61,Bogotá
+692,Cliente_692,40,Bogotá
+693,Cliente_693,47,México
+694,Cliente_694,36,Santiago
+695,Cliente_695,23,Lima
+696,Cliente_696,22,Santiago
+697,Cliente_697,33,México
+698,Cliente_698,56,Santiago
+699,Cliente_699,31,Bogotá
+700,Cliente_700,69,Bogotá
+701,Cliente_701,21,México
+702,Cliente_702,63,Buenos Aires
+703,Cliente_703,27,Lima
+704,Cliente_704,44,Buenos Aires
+705,Cliente_705,52,Buenos Aires
+706,Cliente_706,52,México
+707,Cliente_707,24,Santiago
+708,Cliente_708,66,México
+709,Cliente_709,18,México
+710,Cliente_710,27,Buenos Aires
+711,Cliente_711,53,Santiago
+712,Cliente_712,39,Santiago
+713,Cliente_713,67,Lima
+714,Cliente_714,30,Santiago
+715,Cliente_715,29,Santiago
+716,Cliente_716,45,Buenos Aires
+717,Cliente_717,33,Buenos Aires
+718,Cliente_718,29,Lima
+719,Cliente_719,37,Lima
+720,Cliente_720,27,Santiago
+721,Cliente_721,38,Santiago
+722,Cliente_722,64,Bogotá
+723,Cliente_723,65,Bogotá
+724,Cliente_724,19,Lima
+725,Cliente_725,41,Santiago
+726,Cliente_726,60,Lima
+727,Cliente_727,49,Bogotá
+728,Cliente_728,25,Lima
+729,Cliente_729,54,Buenos Aires
+730,Cliente_730,52,México
+731,Cliente_731,39,Buenos Aires
+732,Cliente_732,59,Bogotá
+733,Cliente_733,66,Bogotá
+734,Cliente_734,53,Santiago
+735,Cliente_735,55,Bogotá
+736,Cliente_736,44,Bogotá
+737,Cliente_737,44,Santiago
+738,Cliente_738,63,México
+739,Cliente_739,30,México
+740,Cliente_740,32,Lima
+741,Cliente_741,51,Buenos Aires
+742,Cliente_742,58,Bogotá
+743,Cliente_743,29,Buenos Aires
+744,Cliente_744,26,Buenos Aires
+745,Cliente_745,64,Santiago
+746,Cliente_746,64,Bogotá
+747,Cliente_747,58,Bogotá
+748,Cliente_748,58,Bogotá
+749,Cliente_749,67,Bogotá
+750,Cliente_750,38,Buenos Aires
+751,Cliente_751,58,Buenos Aires
+752,Cliente_752,29,México
+753,Cliente_753,27,Lima
+754,Cliente_754,46,Lima
+755,Cliente_755,36,México
+756,Cliente_756,63,Bogotá
+757,Cliente_757,66,Bogotá
+758,Cliente_758,40,Buenos Aires
+759,Cliente_759,23,Lima
+760,Cliente_760,39,México
+761,Cliente_761,44,México
+762,Cliente_762,43,Buenos Aires
+763,Cliente_763,61,Lima
+764,Cliente_764,64,México
+765,Cliente_765,63,México
+766,Cliente_766,26,Bogotá
+767,Cliente_767,19,Lima
+768,Cliente_768,29,Bogotá
+769,Cliente_769,38,Santiago
+770,Cliente_770,58,Buenos Aires
+771,Cliente_771,40,México
+772,Cliente_772,69,Santiago
+773,Cliente_773,29,Buenos Aires
+774,Cliente_774,57,Lima
+775,Cliente_775,60,Buenos Aires
+776,Cliente_776,27,Santiago
+777,Cliente_777,53,México
+778,Cliente_778,23,México
+779,Cliente_779,27,Santiago
+780,Cliente_780,63,Buenos Aires
+781,Cliente_781,39,Santiago
+782,Cliente_782,56,Bogotá
+783,Cliente_783,59,Santiago
+784,Cliente_784,40,Bogotá
+785,Cliente_785,39,México
+786,Cliente_786,69,Bogotá
+787,Cliente_787,60,Lima
+788,Cliente_788,33,Santiago
+789,Cliente_789,21,México
+790,Cliente_790,34,Santiago
+791,Cliente_791,39,México
+792,Cliente_792,42,Buenos Aires
+793,Cliente_793,41,Bogotá
+794,Cliente_794,36,Buenos Aires
+795,Cliente_795,21,Lima
+796,Cliente_796,43,Santiago
+797,Cliente_797,22,Buenos Aires
+798,Cliente_798,23,Lima
+799,Cliente_799,41,Lima
+800,Cliente_800,28,México
+801,Cliente_801,40,México
+802,Cliente_802,45,Santiago
+803,Cliente_803,36,Santiago
+804,Cliente_804,66,México
+805,Cliente_805,21,México
+806,Cliente_806,49,Buenos Aires
+807,Cliente_807,55,Bogotá
+808,Cliente_808,39,Bogotá
+809,Cliente_809,67,Buenos Aires
+810,Cliente_810,44,México
+811,Cliente_811,43,México
+812,Cliente_812,42,Bogotá
+813,Cliente_813,40,Buenos Aires
+814,Cliente_814,54,Buenos Aires
+815,Cliente_815,49,Bogotá
+816,Cliente_816,35,Santiago
+817,Cliente_817,60,México
+818,Cliente_818,63,Bogotá
+819,Cliente_819,40,Lima
+820,Cliente_820,53,México
+821,Cliente_821,23,Lima
+822,Cliente_822,50,Lima
+823,Cliente_823,30,Bogotá
+824,Cliente_824,55,Lima
+825,Cliente_825,48,Santiago
+826,Cliente_826,47,Santiago
+827,Cliente_827,58,Bogotá
+828,Cliente_828,66,México
+829,Cliente_829,18,Bogotá
+830,Cliente_830,26,Santiago
+831,Cliente_831,22,Lima
+832,Cliente_832,53,Buenos Aires
+833,Cliente_833,51,Buenos Aires
+834,Cliente_834,32,Bogotá
+835,Cliente_835,43,México
+836,Cliente_836,41,Santiago
+837,Cliente_837,50,Bogotá
+838,Cliente_838,36,Buenos Aires
+839,Cliente_839,33,Bogotá
+840,Cliente_840,59,México
+841,Cliente_841,38,Santiago
+842,Cliente_842,35,México
+843,Cliente_843,48,Bogotá
+844,Cliente_844,33,México
+845,Cliente_845,57,Santiago
+846,Cliente_846,45,México
+847,Cliente_847,57,Santiago
+848,Cliente_848,25,Buenos Aires
+849,Cliente_849,38,México
+850,Cliente_850,28,Lima
+851,Cliente_851,36,Buenos Aires
+852,Cliente_852,23,Lima
+853,Cliente_853,31,Lima
+854,Cliente_854,69,Buenos Aires
+855,Cliente_855,60,Buenos Aires
+856,Cliente_856,52,México
+857,Cliente_857,33,Lima
+858,Cliente_858,42,Lima
+859,Cliente_859,69,Bogotá
+860,Cliente_860,54,Lima
+861,Cliente_861,49,Santiago
+862,Cliente_862,24,México
+863,Cliente_863,20,Buenos Aires
+864,Cliente_864,34,Buenos Aires
+865,Cliente_865,30,México
+866,Cliente_866,52,Buenos Aires
+867,Cliente_867,26,Buenos Aires
+868,Cliente_868,20,Buenos Aires
+869,Cliente_869,52,Lima
+870,Cliente_870,21,Bogotá
+871,Cliente_871,23,Lima
+872,Cliente_872,59,México
+873,Cliente_873,23,Lima
+874,Cliente_874,53,Santiago
+875,Cliente_875,66,Santiago
+876,Cliente_876,63,Lima
+877,Cliente_877,49,Lima
+878,Cliente_878,70,Santiago
+879,Cliente_879,36,Bogotá
+880,Cliente_880,29,Bogotá
+881,Cliente_881,68,Buenos Aires
+882,Cliente_882,52,Lima
+883,Cliente_883,46,Buenos Aires
+884,Cliente_884,47,Buenos Aires
+885,Cliente_885,53,Bogotá
+886,Cliente_886,57,México
+887,Cliente_887,57,Santiago
+888,Cliente_888,31,México
+889,Cliente_889,40,Santiago
+890,Cliente_890,63,Santiago
+891,Cliente_891,62,México
+892,Cliente_892,35,Bogotá
+893,Cliente_893,62,Bogotá
+894,Cliente_894,58,Bogotá
+895,Cliente_895,53,Lima
+896,Cliente_896,36,Lima
+897,Cliente_897,35,México
+898,Cliente_898,63,México
+899,Cliente_899,29,Santiago
+900,Cliente_900,30,Lima
+901,Cliente_901,50,Santiago
+902,Cliente_902,54,Santiago
+903,Cliente_903,18,México
+904,Cliente_904,64,México
+905,Cliente_905,23,Lima
+906,Cliente_906,27,Buenos Aires
+907,Cliente_907,46,México
+908,Cliente_908,49,Buenos Aires
+909,Cliente_909,49,Buenos Aires
+910,Cliente_910,35,Bogotá
+911,Cliente_911,41,Bogotá
+912,Cliente_912,24,Buenos Aires
+913,Cliente_913,57,Santiago
+914,Cliente_914,61,Santiago
+915,Cliente_915,68,Bogotá
+916,Cliente_916,64,Santiago
+917,Cliente_917,23,Lima
+918,Cliente_918,19,Lima
+919,Cliente_919,52,Santiago
+920,Cliente_920,25,Buenos Aires
+921,Cliente_921,69,Lima
+922,Cliente_922,29,Buenos Aires
+923,Cliente_923,64,Buenos Aires
+924,Cliente_924,44,México
+925,Cliente_925,43,Santiago
+926,Cliente_926,50,México
+927,Cliente_927,63,Santiago
+928,Cliente_928,63,Santiago
+929,Cliente_929,38,Buenos Aires
+930,Cliente_930,55,México
+931,Cliente_931,23,Buenos Aires
+932,Cliente_932,29,Santiago
+933,Cliente_933,58,México
+934,Cliente_934,18,México
+935,Cliente_935,20,Lima
+936,Cliente_936,22,Lima
+937,Cliente_937,57,Bogotá
+938,Cliente_938,62,Lima
+939,Cliente_939,44,Santiago
+940,Cliente_940,53,Buenos Aires
+941,Cliente_941,44,Lima
+942,Cliente_942,40,Bogotá
+943,Cliente_943,67,México
+944,Cliente_944,63,Santiago
+945,Cliente_945,57,Lima
+946,Cliente_946,36,Bogotá
+947,Cliente_947,65,Santiago
+948,Cliente_948,62,México
+949,Cliente_949,37,Lima
+950,Cliente_950,33,Lima
+951,Cliente_951,56,Santiago
+952,Cliente_952,34,Bogotá
+953,Cliente_953,55,Bogotá
+954,Cliente_954,25,Santiago
+955,Cliente_955,25,Santiago
+956,Cliente_956,57,Bogotá
+957,Cliente_957,18,Bogotá
+958,Cliente_958,45,Santiago
+959,Cliente_959,21,Santiago
+960,Cliente_960,32,Bogotá
+961,Cliente_961,24,México
+962,Cliente_962,38,Buenos Aires
+963,Cliente_963,61,México
+964,Cliente_964,25,Santiago
+965,Cliente_965,69,Lima
+966,Cliente_966,54,Buenos Aires
+967,Cliente_967,28,México
+968,Cliente_968,26,Bogotá
+969,Cliente_969,28,Bogotá
+970,Cliente_970,26,Bogotá
+971,Cliente_971,61,México
+972,Cliente_972,62,México
+973,Cliente_973,34,México
+974,Cliente_974,54,Bogotá
+975,Cliente_975,24,Santiago
+976,Cliente_976,54,Buenos Aires
+977,Cliente_977,61,Bogotá
+978,Cliente_978,25,México
+979,Cliente_979,59,Santiago
+980,Cliente_980,32,Santiago
+981,Cliente_981,26,Buenos Aires
+982,Cliente_982,35,Bogotá
+983,Cliente_983,37,México
+984,Cliente_984,27,Lima
+985,Cliente_985,27,Buenos Aires
+986,Cliente_986,35,Lima
+987,Cliente_987,59,Buenos Aires
+988,Cliente_988,19,Bogotá
+989,Cliente_989,64,Bogotá
+990,Cliente_990,18,Lima
+991,Cliente_991,24,México
+992,Cliente_992,38,Lima
+993,Cliente_993,36,Lima
+994,Cliente_994,44,Buenos Aires
+995,Cliente_995,56,Santiago
+996,Cliente_996,56,Lima
+997,Cliente_997,65,Santiago
+998,Cliente_998,58,Bogotá
+999,Cliente_999,32,Santiago
+1000,Cliente_1000,64,Bogotá
